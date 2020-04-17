@@ -1,10 +1,10 @@
 # Project Setup
-This assignment will get you set up and rolling with a basic project. By the end, you will have a GitHub repo that contains a working application.
+![A chart depicting a board at a stock exchange](../images/patented_stock.png)
 
-## Assignment Description
+<!-- # Assignment Description
 [Project Setup Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-setup)
-
-## Submission Instructions
-
+-->
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+Source code of the project is hosted at [Patent Investor](https://github.com/skamdem/PatentInvestor).
+
+![A patented stock exchange](../images/patented_stock_market.png)

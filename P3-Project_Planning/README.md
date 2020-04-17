@@ -16,6 +16,6 @@
 
 ### Project Repo Link
 
-Source code of the project is hosted at [Patent Investor](https://github.com/skamdem/PatentInvestor).
+Source code of the project is hosted at [Patent Investor](https://github.com/skamdem/patent-investor).
 
 ![A patented stock exchange](../images/patented_stock_market.png)
