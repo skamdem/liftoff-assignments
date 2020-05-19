@@ -11,6 +11,6 @@ A set of presentation slides summarizing Patent Investor project are provided he
  ## Submission Instructions
 -->
 ### Presentation
-[You can find the .PDF of the presentation here](../P6-Project_Presentation/patented_stock.png).
+[You can find the .PDF of the presentation here](../P6-Project_Presentation/Patent_Investor_Presentation.pdf).
 
 ![A patented stock exchange](../images/patented_stock_market.png)
